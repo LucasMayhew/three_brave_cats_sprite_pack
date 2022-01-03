@@ -1,5 +1,5 @@
 {
-    "name": "project",
+    "name": "three brave cats",
     "description": "An asset pack for MakeCode Arcade",
     "dependencies": {
         "device": "*"
